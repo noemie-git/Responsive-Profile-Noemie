@@ -64,6 +64,9 @@ p {
   color: #694d80;
   margin-bottom: 40px;
 }
+ul {
+  padding-left: 0px;
+}
 /* Responsive design */
 
 @media (max-width: 960px) {
